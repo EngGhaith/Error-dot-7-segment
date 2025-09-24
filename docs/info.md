@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+You give your text and get it on oscilloscope in xy mode!
 ## How to test
 
-Explain how to use your project
+TBD
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Oscilloscope in xy mode
